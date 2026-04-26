@@ -35,7 +35,7 @@ const projects = [
     description:
       "Full-stack application that lets users log in, search for, and save their favorite breweries. Includes commenting, favorites management, and interactive maps via Leaflet. Built with a team of four using Node.js, Express, MySQL, Handlebars, and Sequelize.",
     technologies: "Node / Express / MySQL / Handlebars / Sequelize / Leaflet",
-    link: "https://local-breweries-d7e27e181616.herokuapp.com/",
+    link: "https://github.com/bkness/Local-Breweries",
     repo: "https://github.com/bkness/Local-Breweries",
     image: "LocalBrewery",
   },
@@ -44,7 +44,7 @@ const projects = [
     description:
       "Dynamic tech blog using the MVC architecture. Users can manage accounts, publish, update, and comment on posts. Implements bcrypt for password hashing and express-session for user session management, with Handlebars for dynamic rendering.",
     technologies: "Node / Express / MySQL / Handlebars / Sequelize / Bcrypt",
-    link: "https://mvc--tech-blog-715ec89956fb.herokuapp.com/",
+    link: "https://github.com/bkness/MVC-Tech-Blog",
     repo: "https://github.com/bkness/MVC-Tech-Blog",
     image: "blog",
   },
