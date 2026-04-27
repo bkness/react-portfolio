@@ -3,34 +3,23 @@
 ![Screenshot of the Portfolio Project Page](src/assets/projects/project_page.png)
 ![Screenshot of the Portfolio Contact Page](src/assets/projects/contact_page.png)
 
-## Description 
-This is a portfolio I created with react. Using headers and footers combined with a navbar I was able to make a portfolio that is easy for the user to navigate through
+## Live
 
-## Table of Contents 📝
+[brandon-kellys-portfolio.netlify.app](https://brandon-kellys-portfolio.netlify.app)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Test](#test)
-- [Contributing](#contributing)
+## Quick Start
 
-- [Questions](#questions-📝)
-
-## Installation 
-npm i
-
-## Usage
-To install this repo the user would have to install the packages with npm install and then run node on the index.js file.
-
-## Test 
-npm test
+```sh
+git clone https://github.com/bkness/react-portfolio.git
+cd react-portfolio
+npm install
+npm run dev
+```
 
 ## Contributing
-Fork the project and open a pull request with your new code
 
-## Deployed 
-The github repo can be viewed [here](https://github.com/bkness/React-Portfolio)
+Fork the project and open a pull request with your new code.
 
-The deployed profile can be viewed [here](https://jazzy-scone-ff682e.netlify.app/)
+## Contact
 
-## Questions
-If you have any questions you can email me at kbrandon863@gmail.com if you want to see more of my work, visit my GitHub at [bkness](https://github.com/bkness)
+Brandon Kelly — [GitHub](https://github.com/bkness) · kbrandon863@gmail.com

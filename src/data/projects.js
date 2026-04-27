@@ -5,7 +5,7 @@ export const projects = [
       "A dev environment toolkit published on npm. Includes a security scanner that checks npm packages for typosquatting, tarball integrity, and publisher rotation — plus project scaffolding, README generation, and shell workflow commands. Built with Node.js and ESM.",
     technologies: "Node.js / npm / ESM / CLI",
     link: "https://www.npmjs.com/package/forged-cli",
-    repo: "https://github.com/RevenueWebs/forged-cli",
+    repo: "https://github.com/bkness/forged-cli",
     image: "readme_gen",
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       "Full-stack MERN application with GraphQL and Apollo for secure authentication. Features a gaming news feed powered by a News API, a blog system with GraphQL queries and mutations, and JWT-based user auth. Built collaboratively using Agile methodologies.",
     technologies: "MongoDB / GraphQL / Apollo / React / Node / JWT",
     link: "https://video-gaming-hub.onrender.com/",
-    repo: "https://github.com/bkness/Video-Gaming-Hub",
+    repo: "https://github.com/bkness/game-hub",
     image: "game",
   },
   {
@@ -32,25 +32,25 @@ export const projects = [
       "Full-stack application that lets users log in, search for, and save their favorite breweries. Includes commenting, favorites management, and interactive maps via Leaflet. Built with a team of four using Node.js, Express, MySQL, Handlebars, and Sequelize.",
     technologies: "Node / Express / MySQL / Handlebars / Sequelize / Leaflet",
     link: "https://brewery-search.onrender.com/",
-    repo: "https://github.com/bkness/Local-Breweries",
+    repo: "https://github.com/bkness/breweries",
     image: "localbreweries",
   },
   {
-    name: "MVC Tech Blog",
+    name: "Devlog",
     description:
       "Dynamic tech blog using the MVC architecture. Users can manage accounts, publish, update, and comment on posts. Implements bcrypt for password hashing and express-session for user session management, with Handlebars for dynamic rendering.",
     technologies: "Node / Express / MySQL / Handlebars / Sequelize / Bcrypt",
     link: "https://mvc-tech-blog-production-c752.up.railway.app/",
-    repo: "https://github.com/bkness/MVC-Tech-Blog",
+    repo: "https://github.com/bkness/devlog",
     image: "blog",
   },
   {
-    name: "Social Network API",
+    name: "Night Owlz",
     description:
-      "RESTful API backend for a social network built with MongoDB, Express, and Mongoose. Supports users sharing thoughts, reacting to friends' posts, and managing friend lists. Developed and tested with Insomnia.",
-    technologies: "MongoDB / Express / Mongoose / Node",
-    link: "https://www.youtube.com/watch?v=g3LsVPTANH0",
-    repo: "https://github.com/bkness/Social-Network-API",
+      "Full-stack React Native nightlife discovery app. Search any city for bars, clubs, and live music, save favorites, and explore venues with in-app maps. Features Apple MapKit JS with OpenStreetMap fallback, JWT auth, and a Node/Express backend deployed on Render.",
+    technologies: "React Native / Expo / Node / Express / MongoDB / JWT / Apple Maps",
+    link: "https://nightowlz.onrender.com",
+    repo: "https://github.com/bkness/nightowlz",
     image: "social",
   },
 ];

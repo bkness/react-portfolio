@@ -50,13 +50,13 @@ export default function Resume() {
       <h2 className="section-title">Technical Skills</h2> <br />
       <p className="skills">
         <strong className="skill-def">Languages:</strong> HTML5, CSS3,
-        JavaScript, React
+        JavaScript, Typescript
         <br />
         <strong className="skill-def">Frameworks & Libraries:</strong>{" "}
-        Bootstrap, Tailwind, jQuery, Redux, Handlebars.js, Node.js
+        Bootstrap, Tailwind, jQuery, Redux, Handlebars.js, Node.js, React Native, React, Expo
         <br />
         <strong className="skill-def">Tools & Platforms:</strong> Git, GitHub,
-        VS Code, Heroku, MongoDB, Netlify, Render, Firebase
+        VS Code, MongoDB, Netlify, Render, Firebase, Railway
         <br />
         <strong className="skill-def">Other:</strong> GraphQL, Responsive
         Design, RESTful APIs, Agile Methodologies
@@ -73,7 +73,7 @@ export default function Resume() {
         <strong className="project-description">Game Hub </strong>{" "}
         <span className="separator">|</span>
         <a
-          href="https://github.com/bkness/video-game-hub-project3"
+          href="https://github.com/bkness/game-hub"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -82,7 +82,7 @@ export default function Resume() {
         </a>{" "}
         <span className="separator">|</span>
         <a
-          href="https://video-game-hub-project3.onrender.com/"
+          href="https://video-gaming-hub.onrender.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -109,7 +109,7 @@ export default function Resume() {
         <strong className="project-description">Local Brewery Finder</strong>{" "}
         <span className="separator">|</span>
         <a
-          href="https://github.com/bkness/LocalBreweries"
+          href="https://github.com/bkness/breweries"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -118,7 +118,7 @@ export default function Resume() {
         </a>{" "}
         <span className="separator">|</span>
         <a
-          href="https://radiant-fjord-87739-920e7bb79c22.herokuapp.com/"
+          href="https://brewery-search.onrender.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -136,50 +136,33 @@ export default function Resume() {
         <strong className="project-description">
           Technologies | Languages:
         </strong>{" "}
-        Node.js, Express.js, RESTful API, Handlebars, SQL, NPM, Heroku, CSS,
+        Node.js, Express.js, RESTful API, Handlebars, SQL, NPM, Render, CSS,
         Google Fonts
       </div>{" "}
       <br />
-      <div className="project">
-        <strong className="project-description">
-          NBA Standings Application
-        </strong>{" "}
-        <span className="separator">|</span>
-        <a
-          href="https://github.com/bkness/jungle-map-api "
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          {" "}
-          GitHub
-        </a>{" "}
-        <span className="separator">|</span>
-        <a
-          href="https://bkness.github.io/jungle-map-api/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          {" "}
-          Live
-        </a>
-        <br /> <br />
-        <strong className="project-description">Responsibilities:</strong>{" "}
-        Responsive sports standings app using Tailwind, integrating two APIs for
-        real-time data and implementing client-side storage for persistent data{" "}
-        <br />
-        <strong className="project-description">Role:</strong> Integration of
-        Sports API, Modal design and functionality, CSS <br />
-        <strong className="project-description">
-          Technologies | Languages
-        </strong>{" "}
-        Server Side API, Local Storage, Tailwind CSS, HTML
-      </div>{" "}
-      <br />
+     <div className="project">
+    <strong className="project-description">Night Owlz</strong>{" "}
+    <span className="separator">|</span>
+    <a href="https://github.com/bkness/nightowlz" target="_blank" rel="noopener noreferrer"> GitHub</a>{" "}
+    <span className="separator">|</span>
+    <a href="https://nightowlz.onrender.com" target="_blank" rel="noopener noreferrer"> Live</a>
+    <br /> <br />
+    <strong className="project-description">Responsibilities:</strong>{" "}
+    Built a full-stack React Native nightlife discovery app — search any city for bars, clubs, and live music,
+    save favorites, and explore venues with in-app maps <br />
+    <strong className="project-description">Role:</strong> Sole developer — React Native client with Expo,
+  Node/Express REST API, Apple MapKit JS integration with OpenStreetMap fallback, JWT authentication and
+  bcrypt, deployed to Render
+    <br />
+    <strong className="project-description">Technologies | Languages:</strong>{" "}
+    React Native, Expo, Node.js, Express, MongoDB, Mongoose, JWT, Apple Maps, REST API, Render
+     <br /> <br />
+  </div>
       <div className="project">
         <strong className="project-description">Tech Blog</strong>{" "}
         <span className="separator">|</span>
         <a
-          href="https://github.com/bkness/MVC-Tech-Blog"
+          href="https://github.com/bkness/devlog"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -188,7 +171,7 @@ export default function Resume() {
         </a>{" "}
         <span className="separator">|</span>
         <a
-          href="https://mvc--tech-blog-715ec89956fb.herokuapp.com/"
+          href="https://mvc-tech-blog-production-c752.up.railway.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
