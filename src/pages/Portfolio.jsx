@@ -1,6 +1,6 @@
-import React from 'react';
-import Project from '../components/Project';
-import { Container, Row, Col } from 'react-bootstrap';
+import Project from "../components/Project";
+import { projects } from "../data/projects";
+import { Container, Row, Col } from "react-bootstrap";
 
 function Portfolio() {
   return (
